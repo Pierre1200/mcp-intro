@@ -1,0 +1,47 @@
+[
+    {
+        "id": "list-comprehension",
+        "title": "list comprehension",
+        "summary": "An introduction to list comprehension in Python.",
+        "prerequisites": [],
+        "key_concepts": ["list comprehension", "Python", "iterables"],
+        "common_mistakes": ["Forgetting to use the correct syntax", "Overusing list comprehension for simple operations"],
+        "practice_ideas": ["Create a list of squares of numbers from 1 to 10 using list comprehension.", "Filter out even numbers from a list using list comprehension."]
+    },
+    {
+        "id": "python-decorators",
+        "title": "python decorators",
+        "summary": "An introduction to python decorators.",
+        "prerequisites": [],
+        "key_concepts": ["decorators", "functions", "wrappers"],
+        "common_mistakes": ["Not understanding how decorators work", "Using decorators incorrectly"],
+        "practice_ideas": ["Create a simple decorator that logs the execution time of a function.", "Use a decorator to check if a user is authenticated before executing a function."]
+    },
+    {
+        "id": "python-generators",
+        "title": "python generators",
+        "summary": "An introduction to python generators.",
+        "prerequisites": [],
+        "key_concepts": ["generators", "yield", "iterators"],
+        "common_mistakes": ["Not understanding how generators work", "Using generators incorrectly"],
+        "practice_ideas": ["Create a generator that yields the Fibonacci sequence.", "Use a generator to read a large file line by line."]
+    },
+    {
+        "id": "python-context-managers",
+        "title": "python context managers",
+        "summary": "An introduction to python context managers.",
+        "prerequisites": [],
+        "key_concepts": ["context managers", "with statement", "__enter__", "__exit__"],
+        "common_mistakes": ["Not understanding how context managers work", "Using context managers incorrectly"],
+        "practice_ideas": ["Create a custom context manager that measures the execution time of a block of code.", "Use a context manager to manage database connections."]
+    },
+    {
+        "id": "python-asyncio",
+        "title": "python asyncio",
+        "summary": "An introduction to python asyncio.",
+        "prerequisites": [],
+        "key_concepts": ["asyncio", "coroutines", "event loop"],
+        "common_mistakes": ["Not understanding how asyncio works", "Using asyncio incorrectly"],
+        "practice_ideas": ["Create a simple asyncio program that fetches data from multiple URLs concurrently.", "Use asyncio to implement a simple chat server."]
+    }
+]
