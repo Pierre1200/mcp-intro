@@ -1,1 +1,5 @@
 fastmcp
+google-adk
+litellm
+mcp
+python-dotenv
